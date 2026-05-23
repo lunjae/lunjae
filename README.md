@@ -16,6 +16,5 @@
 ## 🔗 Connect
 
 ## 🌐 Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbc2f077-49f2-4c88-8b6e-07d040f3e2fa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e8542492-748a-4bab-b598-3ee2c8754fe1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Badge 1](https://images.credly.com/size/150x150/images/e8542492-748a-4bab-b598-3ee2c8754fe1/image.png)](https://www.credly.com/badges/e8542492-748a-4bab-b598-3ee2c8754fe1)
+[![Badge 2](https://images.credly.com/size/150x150/images/cbc2f077-49f2-4c88-8b6e-07d040f3e2fa/image.png)](https://www.credly.com/badges/cbc2f077-49f2-4c88-8b6e-07d040f3e2fa)
